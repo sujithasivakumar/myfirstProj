@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-02T10:32:16Z" name="Suite" finished-at="2020-05-02T10:34:14Z" duration-ms="117274">
+    <groups>
+    </groups>
+    <test started-at="2020-05-02T10:32:16Z" name="Test" finished-at="2020-05-02T10:34:14Z" duration-ms="117274">
+      <class name="com.fremwworkdev.Testcase.Login">
+        <test-method is-config="true" signature="setup(org.testng.ITestContext)[pri:0, instance:com.fremwworkdev.Testcase.Login@319b92f3]" started-at="2020-05-02T10:32:00Z" name="setup" finished-at="2020-05-02T10:32:16Z" duration-ms="16070" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@464a4442]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login_in()[pri:1, instance:com.fremwworkdev.Testcase.Login@319b92f3]" started-at="2020-05-02T10:32:18Z" name="Login_in" finished-at="2020-05-02T10:33:26Z" duration-ms="68053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_in -->
+        <test-method is-config="true" signature="terminate()[pri:0, instance:com.fremwworkdev.Testcase.Login@319b92f3]" started-at="2020-05-02T10:34:16Z" name="terminate" finished-at="2020-05-02T10:34:22Z" duration-ms="6422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- com.fremwworkdev.Testcase.Login -->
+      <class name="com.fremwworkdev.Testcase.Add_customer">
+        <test-method signature="call_Add_customer()[pri:1, instance:com.fremwworkdev.Testcase.Add_customer@fcd6521]" started-at="2020-05-02T10:33:27Z" name="call_Add_customer" finished-at="2020-05-02T10:34:12Z" duration-ms="45776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- call_Add_customer -->
+      </class> <!-- com.fremwworkdev.Testcase.Add_customer -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

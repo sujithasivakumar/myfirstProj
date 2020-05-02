@@ -1,0 +1,8 @@
+com\fremwworkdev\utilities\takesScreenshot.class
+com\fameworkdev\pageobject\page_objectclass_customerfunctions.class
+com\fremwworkdev\Testcase\Add_customer.class
+com\fremwworkdev\Testcase\Baseclass.class
+com\fremwworkdev\utilities\ListenerClass1.class
+com\fremwworkdev\utilities\Readconfig.class
+com\fremwworkdev\Testcase\Login.class
+com\fameworkdev\pageobject\PageObjectClass_login.class
